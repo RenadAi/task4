@@ -16,6 +16,8 @@ C.	Web page store result and Send to table database (When entering the value thr
 
 Thess sites shows how to enter data from ESP32
 Through the sensors:
+https://github.com/RenadAi/IOT_TASK3.git
+
 https://create.arduino.cc/projecthub/yilmazyurdakul/data-logging-with-php-mysql-esp8266-d00010
 
 https://randomnerdtutorials.com/visualize-esp32-esp8266-sensor-readings-from-anywhere/
